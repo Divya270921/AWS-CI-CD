@@ -6,7 +6,7 @@ export default function Home() {
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
-          New AWS ci-cd
+          The first AWS ci-cd files
         </div>
       </main>
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
